@@ -1,0 +1,13 @@
+C:\Users\190478\Desktop\triSelection\triSelection\bin\Debug\netcoreapp3.1\triSelection.exe
+C:\Users\190478\Desktop\triSelection\triSelection\bin\Debug\netcoreapp3.1\triSelection.deps.json
+C:\Users\190478\Desktop\triSelection\triSelection\bin\Debug\netcoreapp3.1\triSelection.runtimeconfig.json
+C:\Users\190478\Desktop\triSelection\triSelection\bin\Debug\netcoreapp3.1\triSelection.runtimeconfig.dev.json
+C:\Users\190478\Desktop\triSelection\triSelection\bin\Debug\netcoreapp3.1\triSelection.dll
+C:\Users\190478\Desktop\triSelection\triSelection\bin\Debug\netcoreapp3.1\triSelection.pdb
+C:\Users\190478\Desktop\triSelection\triSelection\obj\Debug\netcoreapp3.1\triSelection.csprojAssemblyReference.cache
+C:\Users\190478\Desktop\triSelection\triSelection\obj\Debug\netcoreapp3.1\triSelection.AssemblyInfoInputs.cache
+C:\Users\190478\Desktop\triSelection\triSelection\obj\Debug\netcoreapp3.1\triSelection.AssemblyInfo.cs
+C:\Users\190478\Desktop\triSelection\triSelection\obj\Debug\netcoreapp3.1\triSelection.csproj.CoreCompileInputs.cache
+C:\Users\190478\Desktop\triSelection\triSelection\obj\Debug\netcoreapp3.1\triSelection.dll
+C:\Users\190478\Desktop\triSelection\triSelection\obj\Debug\netcoreapp3.1\triSelection.pdb
+C:\Users\190478\Desktop\triSelection\triSelection\obj\Debug\netcoreapp3.1\triSelection.genruntimeconfig.cache
